@@ -300,4 +300,4 @@ Google+: <https://plus.google.com/+CreativetimPage>
 Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-1.1.1-blue.svg
+[version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
