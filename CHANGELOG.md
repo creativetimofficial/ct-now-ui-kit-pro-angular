@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.4.0] - 2022-04-18
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- google map implementation with new package dependency
+- css issue fixed in multiple component i.e tab, carousel, accordion, alert, pagination, datepicker, accordion
+
 ## [1.3.0] - 2020-12-17
 ### Updates
 - update to Angular 11
