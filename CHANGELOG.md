@@ -1,4 +1,11 @@
 # Change Log
+
+## [1.6.0] - 2022-07-10
+### Updates 
+- update to Angular 15
+- update all dependencies to match Angular 15 version
+- warnings fixes
+
 ## [1.5.0] - 2022-11-28
 ### Updates
 - update to Angular 14
